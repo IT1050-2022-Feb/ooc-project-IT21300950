@@ -1,5 +1,7 @@
-# include "registeredUser.h"
-# include<cstring>
+//IT21302794	Indunil A. H. G. N. R.
+
+#include "registeredUser.h"
+#include<cstring>
 
 RegisteredUser::RegisteredUser()
 {

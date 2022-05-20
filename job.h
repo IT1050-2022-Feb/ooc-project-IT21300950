@@ -1,4 +1,6 @@
-//Class Job
+//IT21302626	Prasadi P. G. K. R.
+
+
 #ifndef JOB_H
 #define JOB_H
 #define SIZE 2
