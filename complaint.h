@@ -9,6 +9,7 @@ class JobSeeker;
 class JobProvider;
 
 class Complaint{
+
     private:
     int complaintID;
     char complaintTitle[20];

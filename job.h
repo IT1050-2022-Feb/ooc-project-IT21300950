@@ -9,7 +9,6 @@
 
 class Job
 {
-
 protected:
 int jobID;
 char jobTitle[10];

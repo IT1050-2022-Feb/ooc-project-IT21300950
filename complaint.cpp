@@ -8,7 +8,6 @@ Complaint::Complaint()
     complaintID=0;
     strcpy(complaintTitle,"");
 }
-
 void Complaint::disComplaintDetails()
 {
    

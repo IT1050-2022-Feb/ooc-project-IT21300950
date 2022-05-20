@@ -8,8 +8,7 @@ Job::Job(){
     strcpy(jobType,"");
     jobSalary=0;
     strcpy(jobDescription,"");
-    strcpy(jobSalaryBasis,"");
-  
+    strcpy(jobSalaryBasis,""); 
 }
 void Job::setJobDetails(int tjobID,const char tjobTitle[],const char tjobType[],const char tjobDescription[],const char tjobSalaryBasis[] )
 {
