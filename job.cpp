@@ -1,8 +1,6 @@
 #include "job.h"
 #include <cstring>
 
-
-
 Job::Job(){
     jobID=0;   
     strcpy(jobTitle,"");

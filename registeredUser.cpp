@@ -1,7 +1,8 @@
 # include "registeredUser.h"
 # include<cstring>
 
-RegisteredUser::RegisteredUser(){
+RegisteredUser::RegisteredUser()
+{
 	
    strcpy (custUsername,"");
    strcpy (custPassword,"");
