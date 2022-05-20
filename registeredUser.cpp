@@ -3,6 +3,7 @@
 
 RegisteredUser::RegisteredUser()
 {
+  
 	
    strcpy (custUsername,"");
    strcpy (custPassword,"");

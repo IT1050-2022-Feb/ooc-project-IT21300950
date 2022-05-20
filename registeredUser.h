@@ -22,8 +22,7 @@ class RegisteredUser : GuestUser //Inheritance relationship with GuestUserClass
 		Complaint * cmplt[SIZE]; // Bi-directional Association with complaint class
 		
 		
-	
-public:
+	public:
 		RegisteredUser();
 		RegisteredUser(int pcustID,const char pcustName[],const char pcustEmail[],const char pcustTel,const char pcustAddress[],const char userName[],const char password[] );
 		void displayRegiDetails();
